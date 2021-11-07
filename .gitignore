@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/dist
+/tsconfig.tsbuildinfo
+/binance-rest-api.iml
+/src/indexTEST.ts
